@@ -1,8 +1,9 @@
 
 # Author	 : Rex4 
-# Tool 		 : S3L0WB3 - Ddos Attacking
-# Support    : Cantix Crew
-# s3lowbe.py - Simple s3lowbe in Python
+Tool 		 : S3L0WB3 - Ddos Attacking
+Support    : Cantix Crew
+
+s3lowbe.py - Simple s3lowbe in Python
 
 ## What is s3lowbe?
 s3lowbe is basically an HTTP Denial of Service attack that affects threaded servers. It works like this:
