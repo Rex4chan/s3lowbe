@@ -1,7 +1,7 @@
 
-# Author	 : Rex4 
-Tool 		 : S3L0WB3 - Ddos Attacking
-Support    : Cantix Crew
+## Author	 : Rex4 
+## Tool 		 : S3L0WB3 - Ddos Attacking
+## Support    : Cantix Crew
 
 s3lowbe.py - Simple s3lowbe in Python
 
