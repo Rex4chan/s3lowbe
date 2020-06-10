@@ -6,8 +6,9 @@
 #  |_____|___|_____|___|_____|_____|___|
 #
 # Author	 : Rex4 
-# Tool 		 : S3L0WB3 - Ddos Attacking
+# Tool 		 : Selowbe - Ddos Attacking
 # Support    : Cantix Crew
+# Tweet      : @nenghax0r
 
 import argparse
 import logging
